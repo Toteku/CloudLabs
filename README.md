@@ -1,1 +1,2 @@
-# CloudLabs
+# Работу выполнил Костенников Павел. 
+Grigory Shitov - аккаунт друга под frontend
